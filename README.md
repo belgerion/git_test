@@ -1,1 +1,1 @@
-ReadMe
+This is Jeffrey Barnes' first git project!
